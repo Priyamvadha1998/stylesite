@@ -1,0 +1,24 @@
+header{
+	background-color: gray;
+}
+h1{
+	text-align: center;
+	font-size: 45px;
+	color: white;
+
+}
+ header a{
+	font size:20px;
+	color:black;
+}
+section{
+	background-color: gray;
+
+}
+h2{
+	color: blue;
+	font-size: 30px;
+}
+p{
+	font-size: 20px;
+}
